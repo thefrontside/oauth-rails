@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = OAuth::Rails::VERSION
   spec.authors       = ["Charles Lowell"]
   spec.email         = ["cowboyd@thefrontside.net"]
-  spec.description   = %q{Teach Rails the OAuth dance with the greatest of ease}
+  spec.description   = %q{Para bailar La OAuth, se necesita una poca de gracia.}
   spec.summary       = %q{Request Tokens, Access Tokens... When they dip, you dip, we dip.}
   spec.homepage      = "https://github.com/thefrontside/oauth-rails"
   spec.license       = "MIT"
